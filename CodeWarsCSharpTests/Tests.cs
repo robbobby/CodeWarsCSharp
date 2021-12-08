@@ -1,5 +1,4 @@
 ﻿using CodeWarsCSharp;
-using Xunit;
 namespace Solution {
     using NUnit.Framework;
     using System;
@@ -8,7 +7,7 @@ namespace Solution {
     using System.Linq;
   
     [TestFixture]
-    public class SolutionTest
+    public class ListFiltererTests
     {
         [Test]
         public void GetIntegersFromList_MixedValues_ShouldPass_1()

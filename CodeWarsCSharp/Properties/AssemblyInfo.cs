@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CodeWarsCSharpTests")]
+[assembly: AssemblyTitle("CodeWarsCSharp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CodeWarsCSharpTests")]
+[assembly: AssemblyProduct("CodeWarsCSharp")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("00BF91D1-FCA2-405A-A51A-545F8B311FD0")]
+[assembly: Guid("F6E95BB0-1F0E-47E8-AFA5-4FC878D9C158")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsCSharp", "CodeWarsCSharp\CodeWarsCSharp.csproj", "{B993FD48-D3BA-4B27-A4EE-49C5FD5C403E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsCSharpTests", "CodeWarsCSharpTests\CodeWarsCSharpTests.csproj", "{00BF91D1-FCA2-405A-A51A-545F8B311FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsCSharp", "CodeWarsCSharp\CodeWarsCSharp.csproj", "{F6E95BB0-1F0E-47E8-AFA5-4FC878D9C158}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B993FD48-D3BA-4B27-A4EE-49C5FD5C403E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B993FD48-D3BA-4B27-A4EE-49C5FD5C403E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B993FD48-D3BA-4B27-A4EE-49C5FD5C403E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B993FD48-D3BA-4B27-A4EE-49C5FD5C403E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BF91D1-FCA2-405A-A51A-545F8B311FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BF91D1-FCA2-405A-A51A-545F8B311FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BF91D1-FCA2-405A-A51A-545F8B311FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BF91D1-FCA2-405A-A51A-545F8B311FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E95BB0-1F0E-47E8-AFA5-4FC878D9C158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E95BB0-1F0E-47E8-AFA5-4FC878D9C158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E95BB0-1F0E-47E8-AFA5-4FC878D9C158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E95BB0-1F0E-47E8-AFA5-4FC878D9C158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

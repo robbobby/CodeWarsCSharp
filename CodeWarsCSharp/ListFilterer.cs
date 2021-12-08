@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Microsoft.VisualBasic.CompilerServices;
+
 namespace CodeWarsCSharp {
     public static class ListFilterer {
 
