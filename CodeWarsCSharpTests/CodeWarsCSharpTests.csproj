@@ -42,6 +42,7 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="DnaStrangeTest.cs" />
         <Compile Include="KataOpenOrSeniorTests.cs" />
         <Compile Include="ListFiltererTests.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
