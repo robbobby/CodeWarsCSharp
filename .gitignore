@@ -395,3 +395,4 @@ FodyWeavers.xsd
 *.sln.iml
 CodeWarsCSharp/bin/
 CodeWarsCSharp/obj/
+.idea/
