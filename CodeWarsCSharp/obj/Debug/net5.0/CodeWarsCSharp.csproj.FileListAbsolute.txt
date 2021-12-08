@@ -1,0 +1,15 @@
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/bin/Debug/net5.0/CodeWarsCSharp.deps.json
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/bin/Debug/net5.0/CodeWarsCSharp.runtimeconfig.json
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/bin/Debug/net5.0/CodeWarsCSharp.runtimeconfig.dev.json
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/bin/Debug/net5.0/CodeWarsCSharp.dll
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/bin/Debug/net5.0/ref/CodeWarsCSharp.dll
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/bin/Debug/net5.0/CodeWarsCSharp.pdb
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.csprojAssemblyReference.cache
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.AssemblyInfoInputs.cache
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.AssemblyInfo.cs
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.dll
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/ref/CodeWarsCSharp.dll
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.pdb
+/Users/rob/Desktop/CodeWars/CodeWarsCSharp/CodeWarsCSharp/obj/Debug/net5.0/CodeWarsCSharp.genruntimeconfig.cache
